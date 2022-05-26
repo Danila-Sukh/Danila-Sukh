@@ -16,5 +16,4 @@ ___
 ## Contact me:
 [tlglogo]: https://cdn-icons-png.flaticon.com/128/408/408737.png
 [telega]: https://t.me/Danila_Sukh
-[![линкдин][logo]][linkedin]
 [![телега][tlglogo]][telega]
